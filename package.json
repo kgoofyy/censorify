@@ -1,0 +1,11 @@
+{
+    "author": "Kamil Wojdyło",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Cenzuruje słowa w tekscie",
+    "main": "censorify",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
