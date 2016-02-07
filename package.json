@@ -1,7 +1,7 @@
 {
     "author": "Kgoofyy",
     "name": "censorify-kgoofyy",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Cenzuruje słowa w tekscie",
     "main": "censorify",
     "repository": {
